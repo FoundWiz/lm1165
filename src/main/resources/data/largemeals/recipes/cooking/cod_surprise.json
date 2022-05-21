@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/cabbage"
+    },
+    {
+      "tag": "forge:raw_fishes/cod"
+    }
+  ],
+  "result": {
+    "item": "largemeals:cod_surprise"
+  },
+  "experience": 0.1,
+  "cookingtime": 190
+}

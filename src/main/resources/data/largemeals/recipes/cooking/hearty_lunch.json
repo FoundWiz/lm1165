@@ -1,0 +1,25 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "tag": "forge:eggs"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "farmersdelight:cooked_bacon"
+    },
+    {
+      "tag": "forge:crops/onion"
+    }
+  ],
+  "result": {
+    "item": "largemeals:hearty_lunch"
+  },
+  "experience": 0.35,
+  "cookingtime": 215
+}

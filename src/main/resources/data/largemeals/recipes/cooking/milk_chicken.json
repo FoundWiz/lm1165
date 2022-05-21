@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "tag": "forge:milk"
+    },
+    {
+      "item": "minecraft:chicken"
+    }
+  ],
+  "result": {
+    "item": "largemeals:milk_chicken"
+  },
+  "experience": 0.2,
+  "cookingtime": 225
+}

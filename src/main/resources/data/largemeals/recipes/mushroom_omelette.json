@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:brown_mushroom"
+    },
+    {
+      "item": "minecraft:bowl"
+    },
+    {
+      "tag": "forge:cooked_eggs"
+    },
+    {
+      "tag": "forge:cooked_eggs"
+    }
+  ],
+  "result": {
+    "item": "largemeals:mushroom_omelette"
+  }
+}
